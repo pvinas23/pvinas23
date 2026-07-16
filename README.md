@@ -22,3 +22,9 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Comput
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![English](https://img.shields.io/badge/English-02569B?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+![Tu GitHub stats](https://github-readme-stats.vercel.app/api?username=pablovinas23&show_icons=true&theme=radical)
