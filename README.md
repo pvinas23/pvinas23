@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, I'm Pablo, a final-year Mathematics student at UCM. Currently, I'm learning about data science and AI at the same time that I study for my C1 English exam scheduled for August.
+Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Computation. I'm currently expanding my skill set in data science, AI, and machine learning. Alongside preparing for my C1 English exam, I am actively seeking a part-time internship in data science or software engineering for the upcoming semester.
 
 ---
 
