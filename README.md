@@ -23,5 +23,4 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Comput
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![English](https://img.shields.io/badge/English-02569B?style=for-the-badge)
 
----
 
