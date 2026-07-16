@@ -5,7 +5,7 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM. Currently, I'm learni
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-vl)
-[![Correo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablovinas23@gmail.com)
+[![Correo](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pablovinas23@gmail.com)
 
 ---
 
