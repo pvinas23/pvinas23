@@ -25,6 +25,3 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Comput
 
 ---
 
-### 📊 GitHub Stats
-
-![Tu GitHub stats](https://github-readme-stats.vercel.app/api?username=pvinas23&show_icons=true&theme=radical)
