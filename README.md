@@ -14,6 +14,7 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Comput
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E35222?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
