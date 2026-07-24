@@ -16,7 +16,7 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Comput
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-E35222?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
 ### 📌 Current learning areas:
