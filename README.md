@@ -20,8 +20,7 @@ Hello, I'm Pablo, a final-year Mathematics student at UCM specializing in Comput
 ---
 
 ### 📌 Current learning areas:
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=probot&logoColor=white)
 ![English](https://img.shields.io/badge/English-02569B?style=for-the-badge)
 
 
